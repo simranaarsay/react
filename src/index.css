@@ -1,3 +1,21 @@
 
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font: 20px "sans-serif";
+
+
+
+}
+.square{
+    background: antiquewhite;
+    border: 1px solid;
+    height: 20px;
+    width:20px;
+    text-align: center;
+
+}
 
 
